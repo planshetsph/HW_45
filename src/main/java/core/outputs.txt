@@ -1,0 +1,352 @@
+Linear Framework
+Browser: HtmlUnit
+Page URL: http://alex.academy/exe/signup/v1/index.php
+UserAgent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+01. Element [Quotes (dynamic)]: Exists
+02. Element [Current Location]: Exists
+03. Element [Weather Icon]: Exists
+04. Element [Temperature]: Exists
+05. Element [Title]: Exists
+06. Element [First Name (label)]: Exists
+07. Element [First Name (field)]: Exists
+08. Element [Last Name (label)]: Exists
+09. Element [Last Name (field)]: Exists
+10. Element [Email (label)]: Exists
+11. Element [Email (filed)]: Exists
+12. Element [Phone (label)]: Exists
+13. Element [Phone (field)]: Exists
+14. Element [Genre (label)]: Exists
+15. Element [Male (label)]: Exists
+16. Element [Male (radio button)]: Exists
+17. Element [Female (label)]: Exists
+18. Element [Female (radio button)]: Exists
+19. Element [State (label)]: Exists
+20. Element [State (drop-down)]: Exists
+21. Element [State California (item)]: Exists
+22. Element [Terms (label)]: Exists
+23. Element [Terms (checkbox)]: Exists
+24. Element [Image (facebook)]: Exists
+25. Element [Image (twitter)]: Exists
+26. Element [Image (flickr)]: Exists
+27. Element [Image (youtube)]: Exists
+28. Element [Reset (button)]: Exists
+29. Element [Submit (button)]: Exists
+30. Element [Timestamp (dynamic)]: Exists
+31. Element [Copyright (dynamic)]: Exists
+32. Element [OS & Browser (dynamic)]: Exists
+33. Element [Error Line]: Exists
+34. Element [First Name Error]: Exists
+35. Element [Last Name Error]: Exists
+36. Element [Email Error]: Exists
+37. Element [Phone Error]: Exists
+38. Element [First Name Error (img)]: Exists
+39. Element [Last Name Error (img)]: Exists
+40. Element [Email Error (img)]: Exists
+41. Element [Phone Error (img)]: Exists
+42. Element [Gender (field)):  Not exist
+43. Element [Back (button)]:  Not exist
+------------- VISABILITY----------------
+33. Element [Error Line]: Visible
+34. Element [First Name Error]:  Not visible
+35. Element [Last Name Error]:  Not visible
+36. Element [Email Error]:  Not visible
+37. Element [Phone Error]:  Not visible
+38. Element [First Name Error (img)]:  Not visible
+39. Element [Last Name Error (img)]:  Not visible
+40. Element [Email Error (img)]:  Not visible
+41. Element [Phone Error (img)]:  Not visible
+43. Element [Back (button)]:  Not visible
+OS/Browser: Windows 7 & Chrome
+Page URL: http://alex.academy/exe/signup/v1/confirmation.php
+UserAgent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+01. Element [Quotes (dynamic)]: Not exist
+02. Element [Current Location]: Not exist
+03. Element [Weather Icon]: Not exist
+04. Element [Temperature]: Not exist
+05. Element [Title]: Exists
+06. Element [First Name (label)]: Exists
+07. Element [First Name (field)]: Exists
+08. Element [Last Name (label)]: Exists
+09. Element [Last Name (field)]: Exists
+10. Element [Email (label)]: Exists
+11. Element [Email (filed)]: Exists
+12. Element [Phone (label)]: Exists
+13. Element [Phone (field)]: Exists
+14. Element [Genre (label)]: Exists
+15. Element [Male (label)]: Not exist
+16. Element [Male (radio button)]: Not exist
+17. Element [Female (label)]: Not exist
+18. Element [Female (radio button)]: Not exist
+19. Element [State (label)]: Exists
+20. Element [State (drop-down)]: Exists
+21. Element [State California (item)]:  Not exist 
+22. Element [Terms (label)]: Exists
+23. Element [Terms (checkbox)]: Exists
+24. Element [Image (facebook)]:  Not exist 
+25. Element [Image (twitter)]:  Not exist 
+26. Element [Image (flickr)]: Not exist
+27. Element [Image (youtube)]: Not exist
+28. Element [Reset (button)]: Not exist
+29. Element [Submit (button)]: Not exist
+30. Element [Timestamp (dynamic)]: Not exist
+31. Element [Copyright (dynamic)]: Exists
+32. Element [OS & Browser (dynamic)]: Not exist
+33. Element [Error Line]: Not exist
+34. Element [First Name Error]: Not exist
+35. Element [Last Name Error]: Not exist
+36. Element [Email Error]: Not exist
+37. Element [Phone Error]: Not exist
+38. Element [First Name Error (img)]: Not exist
+39. Element [Last Name Error (img)]: Not exist
+40. Element [Email Error (img)]:  Not exist
+41. Element [Phone Error (img)]:  Not exist
+42. Element [Gender (field)): Exists
+43. Element [Back (button)]: Exists
+------------- VISABILITY----------------
+33. Element [Error Line]:  Not visible
+34. Element [First Name Error]:  Not visible
+35. Element [Last Name Error]:  Not visible
+36. Element [Email Error]:  Not visible
+37. Element [Phone Error]:  Not visible
+38. Element [First Name Error (img)]:  Not visible
+39. Element [Last Name Error (img)]:  Not visible
+40. Element [Email Error (img)]:  Not visible
+41. Element [Phone Error (img)]:  Not visible
+43. Element [Back (button)]: Visible
+Response time: 86207 ms
+
+
+Function Framework
+Browser: HtmlUnit
+Page URL: http://alex.academy/exe/signup/v1/index.php
+UserAgent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+01. Element [Quotes (dynamic)]: Exists
+02. Element [Current Location]: Exists
+03. Element [Weather Icon]: Exists
+04. Element [Temperature]: Exists
+05. Element [Title]: Exists
+06. Element [First Name (label)]: Exists
+07. Element [First Name (field)]: Exists
+08. Element [Last Name (label)]: Exists
+09. Element [Last Name (field)]: Exists
+10. Element [Email (label)]: Exists
+11. Element [Email (filed)]: Exists
+12. Element [Phone (label)]: Exists
+13. Element [Phone (field)]: Exists
+14. Element [Genre (label)]: Exists
+15. Element [Male (label)]: Exists
+16. Element [Male (radio button)]: Exists
+17. Element [Female (label)]: Exists
+18. Element [Female (radio button)]: Exists
+19. Element [State (label)]: Exists
+20. Element [State (drop-down)]: Exists
+21. Element [State California (item)]: Exists
+22. Element [Terms (label)]: Exists
+23. Element [Terms (checkbox)]: Exists
+24. Element [Image (facebook)]: Exists
+25. Element [Image (twitter)]: Exists
+26. Element [Image (flickr)]: Exists
+27. Element [Image (youtube)]: Exists
+28. Element [Reset (button)]: Exists
+29. Element [Submit (button)]: Exists
+30. Element [Timestamp (dynamic)]: Exists
+31. Element [Copyright (dynamic)]: Exists
+32. Element [OS & Browser (dynamic)]: Exists
+33. Element [Error Line]: Exists
+34. Element [First Name Error]: Exists
+35. Element [Last Name Error]: Exists
+36. Element [Email Error]: Exists
+37. Element [Phone Error]: Exists
+38. Element [First Name Error (img)]: Exists
+39. Element [Last Name Error (img)]: Exists
+40. Element [Email Error (img)]: Exists
+41. Element [Phone Error (img)]: Exists
+42. Element [Gender (field)):  Not exist
+43. Element [Back (button)]:  Not exist
+------------- VISABILITY----------------
+33. Element [Error Line]: Visible
+34. Element [First Name Error]:  Not visible
+35. Element [Last Name Error]:  Not visible
+36. Element [Email Error]:  Not visible
+37. Element [Phone Error]:  Not visible
+38. Element [First Name Error (img)]:  Not visible
+39. Element [Last Name Error (img)]:  Not visible
+40. Element [Email Error (img)]:  Not visible
+41. Element [Phone Error (img)]:  Not visible
+43. Element [Back (button)]:  Not visible
+OS/Browser: Windows 7 & Chrome
+Page URL: http://alex.academy/exe/signup/v1/confirmation.php
+UserAgent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+01. Element [Quotes (dynamic)]: Not exist
+02. Element [Current Location]: Not exist
+03. Element [Weather Icon]: Not exist
+04. Element [Temperature]: Not exist
+05. Element [Title]: Exists
+06. Element [First Name (label)]: Exists
+07. Element [First Name (field)]: Exists
+08. Element [Last Name (label)]: Exists
+09. Element [Last Name (field)]: Exists
+10. Element [Email (label)]: Exists
+11. Element [Email (filed)]: Exists
+12. Element [Phone (label)]: Exists
+13. Element [Phone (field)]: Exists
+14. Element [Genre (label)]: Exists
+15. Element [Male (label)]: Not exist
+16. Element [Male (radio button)]: Not exist
+17. Element [Female (label)]: Not exist
+18. Element [Female (radio button)]: Not exist
+19. Element [State (label)]: Exists
+20. Element [State (drop-down)]: Exists
+21. Element [State California (item)]:  Not exist 
+22. Element [Terms (label)]: Exists
+23. Element [Terms (checkbox)]: Exists
+24. Element [Image (facebook)]:  Not exist 
+25. Element [Image (twitter)]:  Not exist 
+26. Element [Image (flickr)]: Not exist
+27. Element [Image (youtube)]: Not exist
+28. Element [Reset (button)]: Not exist
+29. Element [Submit (button)]: Not exist
+30. Element [Timestamp (dynamic)]: Not exist
+31. Element [Copyright (dynamic)]: Exists
+32. Element [OS & Browser (dynamic)]: Not exist
+33. Element [Error Line]: Not exist
+34. Element [First Name Error]: Not exist
+35. Element [Last Name Error]: Not exist
+36. Element [Email Error]: Not exist
+37. Element [Phone Error]: Not exist
+38. Element [First Name Error (img)]: Not exist
+39. Element [Last Name Error (img)]: Not exist
+40. Element [Email Error (img)]:  Not exist
+41. Element [Phone Error (img)]:  Not exist
+42. Element [Gender (field)): Exists
+43. Element [Back (button)]: Exists
+------------- VISABILITY----------------
+33. Element [Error Line]:  Not visible
+34. Element [First Name Error]:  Not visible
+35. Element [Last Name Error]:  Not visible
+36. Element [Email Error]:  Not visible
+37. Element [Phone Error]:  Not visible
+38. Element [First Name Error (img)]:  Not visible
+39. Element [Last Name Error (img)]:  Not visible
+40. Element [Email Error (img)]:  Not visible
+41. Element [Phone Error (img)]:  Not visible
+43. Element [Back (button)]: Visible
+Response time: 86342 ms
+
+
+POM Framework
+Browser: HtmlUnit
+Page URL: http://alex.academy/exe/signup/v1/index.php
+UserAgent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+01. Element [Quotes (dynamic)]: Exists
+02. Element [Current Location]: Exists
+03. Element [Weather Icon]: Exists
+04. Element [Temperature]: Exists
+05. Element [Title]: Exists
+06. Element [First Name (label)]: Exists
+07. Element [First Name (field)]: Exists
+08. Element [Last Name (label)]: Exists
+09. Element [Last Name (field)]: Exists
+10. Element [Email (label)]: Exists
+11. Element [Email (filed)]: Exists
+12. Element [Phone (label)]: Exists
+13. Element [Phone (field)]: Exists
+14. Element [Genre (label)]: Exists
+15. Element [Male (label)]: Exists
+16. Element [Male (radio button)]: Exists
+17. Element [Female (label)]: Exists
+18. Element [Female (radio button)]: Exists
+19. Element [State (label)]: Exists
+20. Element [State (drop-down)]: Exists
+21. Element [State California (item)]: Exists
+22. Element [Terms (label)]: Exists
+23. Element [Terms (checkbox)]: Exists
+24. Element [Image (facebook)]: Exists
+25. Element [Image (twitter)]: Exists
+26. Element [Image (flickr)]: Exists
+27. Element [Image (youtube)]: Exists
+28. Element [Reset (button)]: Exists
+29. Element [Submit (button)]: Exists
+30. Element [Timestamp (dynamic)]: Exists
+31. Element [Copyright (dynamic)]: Exists
+32. Element [OS & Browser (dynamic)]: Exists
+33. Element [Error Line]: Exists
+34. Element [First Name Error]: Exists
+35. Element [Last Name Error]: Exists
+36. Element [Email Error]: Exists
+37. Element [Phone Error]: Exists
+38. Element [First Name Error (img)]: Exists
+39. Element [Last Name Error (img)]: Exists
+40. Element [Email Error (img)]: Exists
+41. Element [Phone Error (img)]: Exists
+42. Element [Gender (field)):  Not exist
+43. Element [Back (button)]:  Not exist
+------------- VISABILITY----------------
+33. Element [Error Line]: Visible
+34. Element [First Name Error]:  Not visible
+35. Element [Last Name Error]:  Not visible
+36. Element [Email Error]:  Not visible
+37. Element [Phone Error]:  Not visible
+38. Element [First Name Error (img)]:  Not visible
+39. Element [Last Name Error (img)]:  Not visible
+40. Element [Email Error (img)]:  Not visible
+41. Element [Phone Error (img)]:  Not visible
+43. Element [Back (button)]:  Not visible
+OS/Browser: Windows 7 & Chrome
+Page URL: http://alex.academy/exe/signup/v1/confirmation.php
+UserAgent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+01. Element [Quotes (dynamic)]: Not exist
+02. Element [Current Location]: Not exist
+03. Element [Weather Icon]: Not exist
+04. Element [Temperature]: Not exist
+05. Element [Title]: Exists
+06. Element [First Name (label)]: Exists
+07. Element [First Name (field)]: Exists
+08. Element [Last Name (label)]: Exists
+09. Element [Last Name (field)]: Exists
+10. Element [Email (label)]: Exists
+11. Element [Email (filed)]: Exists
+12. Element [Phone (label)]: Exists
+13. Element [Phone (field)]: Exists
+14. Element [Genre (label)]: Exists
+15. Element [Male (label)]: Not exist
+16. Element [Male (radio button)]: Not exist
+17. Element [Female (label)]: Not exist
+18. Element [Female (radio button)]: Not exist
+19. Element [State (label)]: Exists
+20. Element [State (drop-down)]: Exists
+21. Element [State California (item)]:  Not exist 
+22. Element [Terms (label)]: Exists
+23. Element [Terms (checkbox)]: Exists
+24. Element [Image (facebook)]:  Not exist 
+25. Element [Image (twitter)]:  Not exist 
+26. Element [Image (flickr)]: Not exist
+27. Element [Image (youtube)]: Not exist
+28. Element [Reset (button)]: Not exist
+29. Element [Submit (button)]: Not exist
+30. Element [Timestamp (dynamic)]: Not exist
+31. Element [Copyright (dynamic)]: Exists
+32. Element [OS & Browser (dynamic)]: Not exist
+33. Element [Error Line]: Not exist
+34. Element [First Name Error]: Not exist
+35. Element [Last Name Error]: Not exist
+36. Element [Email Error]: Not exist
+37. Element [Phone Error]: Not exist
+38. Element [First Name Error (img)]: Not exist
+39. Element [Last Name Error (img)]: Not exist
+40. Element [Email Error (img)]:  Not exist
+41. Element [Phone Error (img)]:  Not exist
+42. Element [Gender (field)): Exists
+43. Element [Back (button)]: Exists
+------------- VISABILITY----------------
+33. Element [Error Line]:  Not visible
+34. Element [First Name Error]:  Not visible
+35. Element [Last Name Error]:  Not visible
+36. Element [Email Error]:  Not visible
+37. Element [Phone Error]:  Not visible
+38. Element [First Name Error (img)]:  Not visible
+39. Element [Last Name Error (img)]:  Not visible
+40. Element [Email Error (img)]:  Not visible
+41. Element [Phone Error (img)]:  Not visible
+43. Element [Back (button)]: Visible
+Response time: 86527 ms
